@@ -18,3 +18,4 @@ provider "aws" {
 }
 ```
 
+In this chapter I am going to create a docker instance for example.
