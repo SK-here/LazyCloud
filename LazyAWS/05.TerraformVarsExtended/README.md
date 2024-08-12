@@ -6,3 +6,12 @@ allow users to re-use and customize configuration by providing a consistent
 interface to change how a given configuration behaves.
 
 Follow along with this [Learn Terraform variables](https://developer.hashicorp.com/terraform/tutorials/configuration-language/variables) tutorial.
+
+```txt
+Files modified:
+- main.tf 
+- variables.tf
+- terraform.tfvars
+```
+
+File will be modified this is not a final edit.
