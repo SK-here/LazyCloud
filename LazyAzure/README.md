@@ -2,6 +2,8 @@
 
 Terraform to manage Azure cloud infrastructure.
 
+## Steps to Follow
+
 ### Install Azure CLI on Linux
 
 ```bash
